@@ -1,5 +1,5 @@
 # ReactNative-Simple-Location-Tracking
-React Native ile geliştirilen Basit lokasyon takip uygulaması.<br><b>Blog:</b> https://www.eminsaygi.com <br><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
+React Native ile geliştirilen Basit Google Maps kullanım uygulaması.<br><b>Blog:</b> https://www.eminsaygi.com <br><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
 
 
  <img src="https://github.com/eminsaygi/RN-Google-Maps-Usage/blob/main/images/page1.jpg" width="480" height="753">
